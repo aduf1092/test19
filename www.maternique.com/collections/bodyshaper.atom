@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.maternique.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.maternique.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.maternique.com/collections/bodyshaper.atom"/>
+  <title>Maternique</title>
+  <updated>2024-03-28T09:34:14-04:00</updated>
+  <author>
+    <name>Maternique</name>
+  </author>
+  <entry>
+    <id>https://www.maternique.com/products/7770359529517</id>
+    <published>2024-03-28T09:34:14-04:00</published>
+    <updated>2024-03-28T09:34:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.maternique.com/products/slimfit%E2%84%A2-everyday-tummy-control-thong"/>
+    <title>SlimFit™ | Everyday Tummy-Control Thong</title>
+    <s:type></s:type>
+    <s:vendor>Maternique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0623/8208/0045/files/tanga19.jpg?v=1711632780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maternique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770359529517</id>
+      <title>Black / S</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770359529517</id>
+      <title>Black / M</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770359529517</id>
+      <title>Black / L</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770359529517</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770359529517</id>
+      <title>Black / 2XL</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770359529517</id>
+      <title>Black / 3XL</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770359529517</id>
+      <title>Beige / S</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770359529517</id>
+      <title>Beige / M</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770359529517</id>
+      <title>Beige / L</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770359529517</id>
+      <title>Beige / XL</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770359529517</id>
+      <title>Beige / 2XL</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770359529517</id>
+      <title>Beige / 3XL</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.maternique.com/products/7770354286637</id>
+    <published>2024-03-28T09:22:59-04:00</published>
+    <updated>2024-03-28T09:22:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.maternique.com/products/concealcontrol%E2%84%A2-bodysuit"/>
+    <title>ConcealControl™ Bodysuit</title>
+    <s:type></s:type>
+    <s:vendor>Maternique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0623/8208/0045/files/concealbody2.jpg?v=1711632393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maternique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770354286637</id>
+      <title>Black / S</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770354286637</id>
+      <title>Black / M</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770354286637</id>
+      <title>Black / L</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770354286637</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770354286637</id>
+      <title>Black / 2XL</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770354286637</id>
+      <title>Black / 3XL</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770354286637</id>
+      <title>Brown / S</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770354286637</id>
+      <title>Brown / M</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770354286637</id>
+      <title>Brown / L</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770354286637</id>
+      <title>Brown / XL</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770354286637</id>
+      <title>Brown / 2XL</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770354286637</id>
+      <title>Brown / 3XL</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.maternique.com/products/7770343637037</id>
+    <published>2024-03-28T09:18:47-04:00</published>
+    <updated>2024-03-28T09:18:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.maternique.com/products/sleekfit%E2%84%A2-thong-bodysuit"/>
+    <title>SleekFit™ Thong Bodysuit</title>
+    <s:type></s:type>
+    <s:vendor>Maternique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0623/8208/0045/files/blackthong2.jpg?v=1711632101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maternique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Black / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Black / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Black / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Black / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Black / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Beige / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Beige / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Beige / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Beige / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Beige / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Beige / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Cream / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Cream / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Cream / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Cream / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Cream / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Cream / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Lightblue / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Lightblue / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Lightblue / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Lightblue / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Lightblue / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7770343637037</id>
+      <title>Lightblue / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.maternique.com/products/7767949017133</id>
+    <published>2024-03-28T09:02:41-04:00</published>
+    <updated>2024-03-28T09:02:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.maternique.com/products/comfit%E2%84%A2-snatched-bodysuit"/>
+    <title>ComFit™ Snatched Bodysuit</title>
+    <s:type></s:type>
+    <s:vendor>Maternique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0623/8208/0045/files/ana19.jpg?v=1712382255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maternique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.maternique.com/products/7767949017133</id>
+      <title>Black / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7767949017133</id>
+      <title>Black / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7767949017133</id>
+      <title>Black / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7767949017133</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7767949017133</id>
+      <title>Black / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7767949017133</id>
+      <title>Black / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7767949017133</id>
+      <title>Nude / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7767949017133</id>
+      <title>Nude / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7767949017133</id>
+      <title>Nude / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7767949017133</id>
+      <title>Nude / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7767949017133</id>
+      <title>Nude / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7767949017133</id>
+      <title>Nude / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7767949017133</id>
+      <title>Brown / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7767949017133</id>
+      <title>Brown / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7767949017133</id>
+      <title>Brown / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7767949017133</id>
+      <title>Brown / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7767949017133</id>
+      <title>Brown / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.maternique.com/products/7767949017133</id>
+      <title>Brown / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
